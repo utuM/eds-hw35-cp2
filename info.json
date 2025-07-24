@@ -1,1 +1,23 @@
-{"f1":["nRF_Update_c.bin",472184,"2.1.199"],"f2":["ESP_Update_c.bin",541256,"2.3.15"]}
+{
+    "update": {
+        "version": "1.1.1", 
+        "utc": 1753356509, 
+        "target": {
+            "name": "RoomSign", 
+            "hw_revision": "1.0"
+        }, 
+        "image": {
+            "link": "https://pixeldrain.com/api/file/caS4247T",
+            "size": 558120943, 
+            "hash": "M3kSYq0EKCFhD4EyBUM126NuXqybAMm9v8mpiKECA9I=", 
+            "meta": {
+                "size": 47482, 
+                "hash": "zbZq6kPvn55iQfP7kQoLgwimMxMTW7hAwUYdIijJ3lk="
+            }
+        }, 
+        "changes": {
+            "desc": "Change logs:\n- OTA updating support;\n- optimized a set of default apps/packages;\n- updated ERA to the version v2.2.0;\n- fixed device partitioning;\n- fixed amount of user storage;\n- fixed storage information in Settings.", 
+            "url": null
+        }
+    }
+}
